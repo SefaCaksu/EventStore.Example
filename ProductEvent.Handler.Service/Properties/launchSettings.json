@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ProductEvent.Handler.Service": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    }
+  }
+}
